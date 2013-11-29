@@ -4,7 +4,7 @@
     { "type": "Feature",
        "properties":
        {
-         "name"     : "Unhammer",
+         "id"       : "Unhammer",
          "MAC"      : "notyet",
          "last-seen": "2013-11-14",
          "marker-symbol": "oil-well",
@@ -18,7 +18,7 @@
     { "type": "Feature",
        "properties":
        {
-         "name"     : "kpolberg",
+         "id"       : "kpolberg",
          "MAC"      : "notyet",
          "last-seen": "2013-11-18",
          "marker-symbol": "oil-well",
