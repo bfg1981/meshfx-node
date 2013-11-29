@@ -26,7 +26,7 @@ while (<>) {
 '    { "type": "Feature",
        "properties":
        {
-         "name"     : "%s",
+         "id"       : "%s",
          "MAC"      : "%s",
          "last-seen": "%s",
          "marker-symbol": "oil-well",
